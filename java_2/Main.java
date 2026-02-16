@@ -1,3 +1,24 @@
+/*
+
+Electricity Bill Calculation Using Inheritance
+Problem Statement:
+An electricity board wants to calculate the monthly electricity bill for its consumers using objectoriented programming concepts.
+Requirements:
+1. Create a Consumer class with the following data members:
+o Consumer ID
+o Consumer Name
+o Units Consumed
+2. Create a ElectricityBill class that inherits from the Consumer class.
+3. The ElectricityBill class should contain a method to calculate the bill amount using the
+following slab rates:
+o First 100 units: ₹1.50 per unit
+o Next 200 units: ₹2.50 per unit
+o Above 300 units: ₹4.00 per unit
+4. Display the consumer details and the total bill amount.
+
+*/
+
+
 package java_2;
 
 import java.util.*;

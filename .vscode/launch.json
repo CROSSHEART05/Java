@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainEmployeeSalaryCalculation",
+            "request": "launch",
+            "mainClass": "java_2.MainEmployeeSalaryCalculation",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
